@@ -22,9 +22,6 @@
   "dependencies": {
     "xmlbuilder": "2.6.4"
   },
-  "peerDependencies": {
-    "karma": ">=0.9"
-  },
   "license": "MIT",
   "devDependencies": {
     "eslint": "^1.2.1",
